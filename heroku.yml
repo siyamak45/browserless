@@ -2,4 +2,4 @@ build:
    docker:
       web: docker
 run:
-   web: docker run -d -p 8000:8000 exporte
+   web: npm start
